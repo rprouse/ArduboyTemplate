@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:leonardo",
     "port": "COM22",
-    "sketch": "ArduboyTemplate.ino"
+    "sketch": "ArduboyTemplate.ino",
+    "output": "../build"
 }
